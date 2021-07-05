@@ -1,12 +1,12 @@
 # The VBA Of Wallstreet
 
-##Overview of Project
+## Overview of Project
 
 This is an analysis of 12 select stocks performance between the fiscal years of 2017 and 2018 for the purpose of determining which stocks might be a viable investment.  
 
 In addition, this analysis seeks to determine if using refactored vba code can enhance the performance of excel and speed up the processing time of data.
 
-##Results
+## Results
 Daily opening price, closing price, and total volume data for each of these twelve stocks was analysed to determine, over the course of 2017 and 2018 the total volume of each stock that was moved and the percentage return for 1 year of investment.
 
 The initial analysis attempts to do this by:
@@ -74,7 +74,7 @@ While the two methods produced the same output, the time taken to conduct the re
 
 ![2018 Processing Time](https://github.com/rscalise88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
-##Summary 
+## Summary 
 For smaller data sets, the extra steps required to develop the code for the refactoring do not result in a significant amount of time saved versus time put into generating the code.  For an amateur coder, the fractions of a second shaved off the processing time are lost in writing and potentially troubleshooting the additional lines of code.
 
 However, were this to be applied to a significantly larger data set, the processing time would heavily factor into the decision to use the refactored methodology.  Were the entire stock market, instead of 12 individual stocks, to be analyzed, rather than fractions of a second, hours and minutes could potentially be saved from the processing time of the analysis.
