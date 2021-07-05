@@ -1,6 +1,7 @@
 # The VBA Of Wallstreet
 
 ##Overview of Project
+
 This is an analysis of 12 select stocks performance between the fiscal years of 2017 and 2018 for the purpose of determining which stocks might be a viable investment.  
 
 In addition, this analysis seeks to determine if using refactored vba code can enhance the performance of excel and speed up the processing time of data.
