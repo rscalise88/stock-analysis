@@ -65,13 +65,13 @@ Both methods provide the exact same results.  The data analysis indicates that, 
 
 Based on these two years of data, it would appear that ENPH, with its year-over-year returns, and SEDG, with very large 188.8% returns in 2017, and only a -7.6% loss in 2018, are the safest investments.
 
-![2017-2018 Analyses](https://github.com/rscalise88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![2017-2018 Analyses](https://github.com/rscalise88/stock-analysis/blob/main/Resources/2017_2018_Output.PNG)
 
 While the two methods produced the same output, the time taken to conduct the refactored analysis was significantly lowered.  Timers were placed within each analysis, set to display the processing time for each run.  On average the initial methodology took 0.68s to complete.  However, the messages produced after the refactored analyses indicated that these were often finished over twice as fast.
 
-![2017 Processing Time](https://github.com/rscalise88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![2017 Processing Time](https://github.com/rscalise88/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
-![2018 Processing Time](https://github.com/rscalise88/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![2018 Processing Time](https://github.com/rscalise88/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ##Summary 
 For smaller data sets, the extra steps required to develop the code for the refactoring do not result in a significant amount of time saved versus time put into generating the code.  For an amateur coder, the fractions of a second shaved off the processing time are lost in writing and potentially troubleshooting the additional lines of code.
